@@ -1,10 +1,11 @@
 # SpringBootDMS
 【毕业设计】基于Spring Boot的宿舍管理系统(Dormitory Management System)。以MySQL为数据库，在Spring Boot + SpringMVC + MyBatis + Layui框架下基于B/S架构设计开发而成。
 
-1. database中存放的是sql文件
-2. dormitory中存放的是后端代码
-3. dormitoryfront中存放的是前端代码
-4. excel中存放的是系统运行时文件上传部分可能用到的Excel文件
+文件夹介绍：
+  * `database`中存放的是sql文件
+  * `dormitory`中存放的是后端代码
+  * `dormitoryfront`中存放的是前端代码
+  * `excel`中存放的是系统运行时文件上传部分可能用到的Excel文件
 
 # 一、项目介绍💁🏻
 基于Spring Boot的宿舍管理系统是我所完成的本科毕业设计，现在将它分享出来，与大家互相交流、学习。欢迎小伙伴们留下评论~
