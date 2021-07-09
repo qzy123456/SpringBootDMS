@@ -78,6 +78,9 @@ public class RoomService {
 
 
     public double queryRoomBalance(Integer roomId){
+        if (Double.isNaN(roomMapper.queryRoomBalance(roomId))){
+            return 0;
+        }
         return roomMapper.queryRoomBalance(roomId);
     }
 
